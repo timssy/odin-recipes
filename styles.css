@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+
+.list {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
