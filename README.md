@@ -1,6 +1,6 @@
 # odin-recipes
 
-## Learnings
+## Learnings in Intro of HTML  of The Odin Project
 - Basics of HTML such as structure of the html, html tags (e.g. p tags, anchor tags, img tags, heading tags)
 ```html
 <!DOCTYPE html>
